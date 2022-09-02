@@ -1,4 +1,5 @@
-<include a CircleCI status badge, here>
+[![mike-pj](https://circleci.com/gh/mike-pj/Project-AWS-Cloud-ML-Microservice-Kubernetes.svg?style=svg)](https://app.circleci.com/pipelines/github/mike-pj/Project-AWS-Cloud-ML-Microservice-Kubernetes)
+
 
 ## Project Overview
 
